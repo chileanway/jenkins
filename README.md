@@ -1,35 +1,35 @@
-[![][ButlerImage]][website] 
+# Perkins
 
 # About
-In a nutshell, Jenkins is the leading open-source automation server. 
+In a nutshell, Perkins is the leading open-source automation server. 
 Built with Java, it provides over 1000 plugins to support automating virtually anything, 
 so that humans can actually spend their time doing things machines cannot.
 
-# What to Use Jenkins for and When to Use It
+# What to Use Perkins for and When to Use It
 
-Use Jenkins to automate your development workflow so you can focus on work that matters most. Jenkins is commonly used for:
+Use Perkins to automate your development workflow so you can focus on work that matters most. Perkins is commonly used for:
 
 - Building projects
 - Running tests to detect bugs and other issues as soon as they are introduced
 - Static code analysis
 - Deployment
 
-Execute repetitive tasks, save time, and optimize your development process with Jenkins.
+Execute repetitive tasks, save time, and optimize your development process with Perkins.
 
 # Downloads
 Non-source downloads such as WAR files and several Linux packages can be found on our [Mirrors].
 
 # Source
-Our latest and greatest source of Jenkins can be found on [GitHub]. Fork us!
+Our latest and greatest source of Perkins can be found on [GitHub]. Fork us!
 
-# Contributing to Jenkins
+# Contributing to Perkins
 Follow [contributing](CONTRIBUTING.md) file.
 
 # News and Website
 All information about Jenkins can be found on our [website]. Follow us on Twitter [@jenkinsci].
 
 # License
-Jenkins is **licensed** under the **[MIT License]**. The terms of the license are as follows:
+Perkins is **licensed** under the **[MIT License]**. The terms of the license are as follows:
 
     The MIT License (MIT)
 
